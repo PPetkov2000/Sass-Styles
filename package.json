@@ -1,0 +1,22 @@
+{
+  "name": "sass-styles",
+  "version": "1.0.1",
+  "description": "Default sass styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PPetkov2000/sass-styles.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Plamen Petkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PPetkov2000/sass-styles/issues"
+  },
+  "homepage": "https://github.com/PPetkov2000/sass-styles#readme"
+}
